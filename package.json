@@ -1,0 +1,23 @@
+{
+  "name": "jb-bd",
+  "version": "1.0.0",
+  "description": "This is jb soft bd ltd",
+  "main": "index.js",
+  "scripts": {
+    "run": "node-sass sass/main.scss css/main.css -w",
+    "dev": "node-sass sass/main.scss css/main.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tawhidjony/jb-soft-bd.git"
+  },
+  "author": "jb",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tawhidjony/jb-soft-bd/issues"
+  },
+  "devDependencies": {
+    "node-sass": "^4.13.0"
+  },
+  "homepage": "https://github.com/tawhidjony/jb-soft-bd#readme"
+}
