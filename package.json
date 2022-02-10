@@ -17,7 +17,7 @@
     "url": "https://github.com/tawhidjony/jb-soft-bd/issues"
   },
   "devDependencies": {
-    "node-sass": "^4.13.0"
+    "node-sass": "^7.0.0"
   },
   "homepage": "https://github.com/tawhidjony/jb-soft-bd#readme"
 }
